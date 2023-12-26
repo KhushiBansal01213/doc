@@ -1,0 +1,16 @@
+body {
+  margin: 0;
+  font-family: Poppins, sans-serif;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+.css-1aquho2-MuiTabs-indicator {
+  background-color: #22cb72 !important;
+}
+
+.btn:hover{
+  background-color: #22cb72 !important;
+}
